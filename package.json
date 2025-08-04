@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "both": "concurrently \"cd backend && node index.js\" \"cd frontend && vite\"",
-    "backend": "cd backend && node index.js",
+    "todoapp": "node ./backend/todo-app/test.js",
     "frontend": "cd frontend && vite",
     "build": "cd frontend && vite build",
     "lint": "cd frontend && eslint .",
