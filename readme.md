@@ -1,6 +1,6 @@
 # Learning for WorldSkill Germany SKILL17
 
-frontend: vitejs, react, react-router-dom, javascript, tailwindcss
+frontend: vitejs, react, react-router-dom, javascript, CSS/TailwindCSS/Bootstrap
 
 backend: expressjs
 
